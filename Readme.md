@@ -1,7 +1,7 @@
-**Welcome-To-My-First-CLA-App**
+# Welcome-To-My-First-CLA-App
 
-#Fun Activity.. App this contest based on
-"How do you know me well?"
+**Fun Activity.. App this contest based on**
+*"How do you know me well?"*
 
 #SCORES: (POINTS/5)
 if you give correct answer to the question we get one point, if it is
