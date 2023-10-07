@@ -1,8 +1,6 @@
-**Fun Activity..**
+**Welcome-To-My-First-CLA-App**
 
-Hello,
-
-Welcome to my frist CLA App this contest based on
+#Fun Activity.. App this contest based on
 "How do you know me well?"
 
 #SCORES: (POINTS/5)
