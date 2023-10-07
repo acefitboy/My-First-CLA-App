@@ -4,7 +4,6 @@ var readlineSync = require("readline-sync");
 
 var name = readlineSync.question("\n➡ Enter your name ? ");
 
-
 var score = 0;
 
 // processing
